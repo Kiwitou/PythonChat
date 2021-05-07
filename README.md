@@ -2,7 +2,7 @@
 A very simple chat written in Python using Flask and pyqt5
 
 
-#imports:
+**Imports:*
 pip install requests
 
 pip install PyQt5
@@ -10,7 +10,7 @@ pip install PyQt5
 pip install flask
 
 
-#How to use
+**How to use**
 Start the server.py on your server
 
 Add the URL of your server into the client.py (Current URL is localhost)
