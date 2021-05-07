@@ -10,6 +10,8 @@ pip install PyQt5
 
 pip install flask
 
+pip install colorama
+
 
 **- How to use -**
 
