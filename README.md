@@ -25,3 +25,5 @@ Start client.py on as many client computers as you want :)
 
 
 Have fun :)
+
+Every file in this project is free to use without any credits.
