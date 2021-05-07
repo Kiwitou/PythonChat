@@ -19,7 +19,7 @@ Add the URL of your server into the client.py (Current URL is localhost)
 
 [Optional] Change the NAME of your client
 
-Start client.py on a client computer
+Start client.py on as many client computers as you want :)
 
 
 Have fun :)
